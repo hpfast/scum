@@ -35,4 +35,5 @@ A start
 That's the basics. I'm going to explore this model here with more description and eventually code as well.
 
 \* Mapspec is the name for the planned software implementation of this paradigm.
+
 \*\* I believe managing a large writing project in versioned plain text and using tools like Latex or Pandoc to style them with simple markup is the best way to go.
