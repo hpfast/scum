@@ -34,4 +34,4 @@ A start
 
 That's the basics. I'm going to explore this model here with more description and eventually code as well.
 
-* Mapspec is the name for the planned software implementation of this paradigm.
+\* Mapspec is the name for the planned software implementation of this paradigm.
